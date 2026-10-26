@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Test and tool caches
+.pytest_cache/
+.streamlit/secrets.toml
+
+# Generated outputs
+outputs/
+artifacts/
